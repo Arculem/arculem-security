@@ -1,0 +1,9 @@
+Contact: mailto:security@arculem.com
+Encryption: https://arculem.com/pgp.txt
+Preferred-Languages: en
+Canonical: https://arculem.com/.well-known/security.txt
+Policy: https://arculem.com/security-policy
+Hiring: https://arculem.com/careers
+Expires: 2026-01-01T00:00:00.000Z
+
+If you believe you've found a security vulnerability in Arculem systems, please report it using the above contact. We reward responsible disclosure with public credit or private acknowledgment as appropriate.
