@@ -63,7 +63,7 @@ We do **not** offer bounties at this time, but this may change in the future.
 
 **Effective Date**: June 14, 2025  
 **Last Updated**: June 14, 2025  
-**Expires**: June 14, 2026 (or upon replacement)
+**Expires**: June 14, 2040 (or upon replacement)
 
 For the canonical source of this policy, visit:  
 [https://arculem.com/security-policy](https://arculem.com/security-policy)
